@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace ShopASucculent.Data.Model
 {
@@ -13,3 +11,4 @@ namespace ShopASucculent.Data.Model
         public DateTime UpdatedDate { get; set; }
     }
 }
+
